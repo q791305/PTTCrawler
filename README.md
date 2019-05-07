@@ -52,3 +52,4 @@ SearchID:是否要搜尋特定ID(Bool值)
 TargetID:要搜尋的目標ID(String),在SearchID為True時才會有用
 
 CalUnderPush:指定數量以下的推文ID會被統計(int)
+# qqq
